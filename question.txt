@@ -1,0 +1,17 @@
+Question 1
+write a function  that  calculates  the area of a triangle?
+
+Question 2
+The Fibonacci sequence is a series of numbers where each 
+successive number is equal to the sum of the two numbers that precede it.
+
+write a function that calculates the nth term in Fibonacci sequence?
+
+if i pass 5 to it, it should give me the 5th term.
+
+Question 3
+Given two existing MongoDB collections, **users** and **gasCylinders**, 
+where each user document has a reference (e.g., userId) to one or more 
+gasCylinders, write a MongoDB query that efficiently retrieves a specific user 
+document along with an array of all the gasCylinders associated with that user, 
+in a single database query.
